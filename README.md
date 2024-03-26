@@ -1,2 +1,2 @@
-# hello-world
+# first-day-repo
 UM bootcamp
